@@ -181,4 +181,3 @@ def balance_to_majority(X_train: pd.DataFrame, Y_train: pd.DataFrame, majority_l
     logger.info(f"Final label distribution:\n{Y_balanced.sum().to_string()}")
 
     return X_balanced, Y_balanced
-
