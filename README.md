@@ -81,6 +81,5 @@ print(f"\nBalanced dataset shape: X={X_balanced.shape}, Y={Y_balanced.shape}")
 ## Acknowledgements and References
 This implementation was developed with the help of Gemini and is based on the concepts and code from the following excellent resources. Proper credit goes to their original authors.
 
-- **Nitesh Sukhwani's MLSMOTE GitHub Repository:** (https://github.com/niteshsukhwani/MLSMOTE/blob/master/mlsmote.py)
-
-- **Tolga Dincer's Kaggle Notebook on Upsampling Multi-Label Data:** (https://www.kaggle.com/code/tolgadincer/upsampling-multilabel-data-with-mlsmote)
+  * **Nitesh Sukhwani's MLSMOTE GitHub Repository:** [https://github.com/niteshsukhwani/MLSMOTE/blob/master/mlsmote.py](https://github.com/niteshsukhwani/MLSMOTE/blob/master/mlsmote.py)
+  * **Tolga Dincer's Kaggle Notebook on Upsampling Multi-Label Data:** [https://www.kaggle.com/code/tolgadincer/upsampling-multilabel-data-with-mlsmote](https://www.kaggle.com/code/tolgadincer/upsampling-multilabel-data-with-mlsmote)
